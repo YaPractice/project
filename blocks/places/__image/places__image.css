@@ -1,0 +1,11 @@
+.places__image {
+  width: 50%;
+  height: 41.8vw;
+  object-fit: cover;
+}
+
+@media (min-width: 1440px) {
+  .places__image {
+    max-height: 600px;
+  }
+}

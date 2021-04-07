@@ -1,0 +1,12 @@
+.places__block {
+  max-width: 1440px;
+  margin: 0 auto;
+  min-height: 41.8vw;
+  display: flex;
+}
+
+@media (min-width: 1440px) {
+  .places__block {
+    min-height: 600px;
+  }
+}
