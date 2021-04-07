@@ -1,4 +1,6 @@
 .header {
     font-family: 'Raleway', sans-serif;
+    max-width: 1289px;
     padding-top: 50px;
+    font-size: 14px;
 }
