@@ -1,7 +1,0 @@
-.header__banner {
-    display: grid;
-    grid-template-columns: 1fr 420px;
-    grid-template-rows: 440px;
-    gap: 150px;
-    padding-right: 120px;
-}
