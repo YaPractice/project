@@ -1,5 +1,6 @@
 .banner {
   font-family: 'Raleway', sans-serif;
+  margin: 0 auto;
   width: 90%;
   max-width: 1289px;
   box-sizing: border-box;
