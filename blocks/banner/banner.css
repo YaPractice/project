@@ -1,6 +1,10 @@
 .banner {
+  font-family: 'Raleway', sans-serif;
+  width: 90%;
+  max-width: 1289px;
+  box-sizing: border-box;
   display: grid;
   grid-template-columns: 57% 430px;
   grid-template-rows: 440px;
-  padding-right: 120px;
+  gap: 10px;
 }
