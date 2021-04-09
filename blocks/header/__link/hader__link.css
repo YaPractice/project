@@ -1,0 +1,19 @@
+.header__link {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+    transition: all .5s ease-in-out;
+}
+
+.header__link:hover {
+    transform: scale(1.1);
+}
+
+
+@media screen and (max-width: 500px) {
+    .header__link:last-child {
+        font-size: 18px;
+        padding-top: 10px;
+    }
+}
