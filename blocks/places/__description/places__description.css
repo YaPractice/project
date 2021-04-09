@@ -1,0 +1,15 @@
+.places__description {
+  width: 50%;
+  box-sizing: border-box;
+  padding: 75px 80px 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+@media (max-width: 1030px) {
+  .places__description {
+    width: 100%;
+    padding: 30px;
+  }
+}

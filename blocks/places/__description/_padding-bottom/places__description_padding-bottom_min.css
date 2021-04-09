@@ -1,0 +1,9 @@
+.places__description_padding-bottom_min {
+  padding-bottom: 72px;
+}
+
+@media (max-width: 1030px) {
+  .places__description_padding-bottom_min {
+    padding-bottom: 30px;
+  }
+}
