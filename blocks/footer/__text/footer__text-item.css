@@ -1,5 +1,14 @@
 .footer__text-item {
+  position: relative;
   margin: 0;
-  font-size: 37px;
+  padding-left: 31px;
+  font-size: 40px;
   font-weight: 700;
+}
+
+.footer__text-item::before {
+  position: absolute;
+  content: "©";
+  left: 0;
+  bottom: -2px;
 }
