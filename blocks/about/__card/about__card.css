@@ -1,0 +1,13 @@
+.about__card {
+  max-width: 252px;
+  width: 100%;
+  margin-top: 40px;
+  padding-left: 40px;
+}
+
+@media (max-width: 800px) {
+  .about__card {
+    padding-left: 0;
+    max-width: initial;
+  }
+}
