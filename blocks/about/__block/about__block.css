@@ -1,0 +1,11 @@
+.about__block {
+  width: 90%;
+  max-width: 1289px;
+  margin: 0 auto;
+}
+
+@media (max-width: 800px) {
+  .about__block {
+    max-width: 401px;
+  }
+}
