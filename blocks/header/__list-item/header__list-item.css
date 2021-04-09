@@ -1,0 +1,9 @@
+.header__list-item:not(:last-child) {
+	margin-right: 40px
+}
+
+@media screen and (max-width: 500px) {
+	.header__list-item:not(:last-child) {
+	 margin: 0;
+	}
+  }

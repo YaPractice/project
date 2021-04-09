@@ -1,0 +1,34 @@
+.banner {
+  font-family: 'Raleway', sans-serif;
+  margin: 0 auto;
+  padding-bottom: 147px;
+  width: 90%;
+  max-width: 1289px;
+  min-width: 320px;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: minmax(320px, 785px) 401px;
+  grid-template-rows: 401px;
+  gap: 10px;
+}
+
+@media screen and (max-width: 800px) {
+  .banner {
+    grid-template-rows: 320px 401px;
+    grid-template-columns: 401px;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 521px) {
+  .banner {
+    grid-template-rows: 300px 300px;
+    grid-template-columns: 300px;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .banner {
+    grid-template-rows: 200px 300px;
+  }
+}
