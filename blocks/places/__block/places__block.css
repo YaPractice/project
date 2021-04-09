@@ -5,13 +5,13 @@
   display: flex;
 }
 
-@media (min-width: 1440px) {
+@media screen and (min-width: 1440px) {
   .places__block {
     min-height: 600px;
   }
 }
 
-@media (max-width: 1030px) {
+@media screen and (max-width: 1030px) {
   .places__block {
     flex-direction: column;
     margin: 0 auto;

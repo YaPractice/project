@@ -2,7 +2,7 @@
   padding: 155px 0 143px;
 }
 
-@media (max-width: 800px) {
+@media screen and (max-width: 800px) {
   .about {
     padding: 70px 0 70px;
   }

@@ -10,13 +10,13 @@
   margin-top: 30px;
 }
 
-@media (max-width: 1140px) {
+@media screen and (max-width: 1140px) {
   .places__text {
     font-size: 13px;
   }
 }
 
-@media (max-width: 1030px) {
+@media screen and (max-width: 1030px) {
   .places__text {
     margin-top: 30px;
   }

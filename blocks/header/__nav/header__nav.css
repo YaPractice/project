@@ -1,15 +1,14 @@
 .header__nav{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 100px;
 }
 
 @media screen and (max-width: 500px) {
-    .header__nav {
-        flex-direction: column;
-        margin-bottom: 50px;
-
-    }
+  .header__nav {
+    flex-direction: column;
+    margin-bottom: 50px;
+  }
 }
 
