@@ -5,7 +5,7 @@
 Адаптивный одностраничный сайт, созданный по макету из PNG изображения.
 
 ---
-##[Ссылка на GH-pages](https://yapractice.github.io/project/index.html)
+[Ссылка на GH-pages](https://yapractice.github.io/project/index.html)
 
 ## Стек
 
