@@ -1,0 +1,5 @@
+@media (max-width: 1030px) {
+  .places__block_inverted {
+    flex-direction: column-reverse;
+  }
+}

@@ -3,3 +3,9 @@
   line-height: 1;
   margin: 0;
 }
+
+@media (max-width: 1140px) {
+  .places__title {
+    font-size: 26px;
+  }
+}
